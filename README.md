@@ -28,7 +28,8 @@ The project includes:
 - processed CSV outputs for reuse and further analysis
 
 ---
-
+For a quick overview, see [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md).
+---
 ## Project Objective
 
 The goal of this project was to turn raw bearing vibration files into meaningful analytical outputs that can be used to monitor degradation trends and compare failure behaviour across multiple run-to-failure experiments.
