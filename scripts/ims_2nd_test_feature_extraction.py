@@ -6,9 +6,9 @@ from datetime import datetime
 # =========================================================
 # CONFIG
 # =========================================================
-INPUT_FOLDER = r"D:\Learning\Data Analytics\Projects\IMS\2nd_test\2nd_test"
-OUTPUT_CSV = r"D:\Learning\Data Analytics\Projects\IMS\processed_ims_2nd_test_features.csv"
-ERROR_LOG_CSV = r"D:\Learning\Data Analytics\Projects\IMS\processed_ims_2nd_test_errors.csv"
+INPUT_FOLDER = r"PATH_FOR_FOLDER\2nd_test"
+OUTPUT_CSV = r"PATH_FOR_FOLDER\processed_ims_2nd_test_features.csv"
+ERROR_LOG_CSV = r"PATH_FOR_FOLDER\processed_ims_2nd_test_errors.csv"
 
 TEST_ID = "2nd_test"
 EXPECTED_COLUMNS = 4
