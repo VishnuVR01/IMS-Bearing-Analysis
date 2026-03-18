@@ -42,14 +42,28 @@ This project was built to demonstrate:
 - cross-test comparison using normalised progress
 
 ---
+## Dashboard Previews
 
+### Test 1 Dashboard
+![Test 1 Dashboard](docs/README_images/test1_dashboard.png)
+
+### Test 2 Dashboard
+![Test 2 Dashboard](docs/README_images/test2_dashboard.png)
+
+### Test 3 Dashboard
+![Test 3 Dashboard](docs/README_images/test3_dashboard.png)
+
+### Cross-Test Comparison Dashboard
+![Cross-Test Comparison Dashboard](docs/README_images/cross_test_dashboard.png) 
+
+---
 ## Dataset Source
 
 The dataset used in this project is the **IMS Bearings dataset**, originally provided by the:
 
 - **Center for Intelligent Maintenance Systems (IMS), University of Cincinnati**
 - distributed through **NASA / Prognostics Center of Excellence (PCoE)**
-
+- official link https://data.nasa.gov/dataset/ims-bearings 
 This is a well-known **run-to-failure bearing dataset** used in predictive maintenance and condition monitoring studies.
 
 
